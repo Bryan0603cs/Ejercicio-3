@@ -81,7 +81,7 @@ public class Conexion {
     public void usuario(String usuario){
         this.usuario = usuario;
     }
-    public void CodificacionDeCaracteres(String codificacion){
+    public void Codificacion(String codificacion){
         this.codificacion = codificacion;
     }
     
